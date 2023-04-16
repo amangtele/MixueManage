@@ -16,7 +16,7 @@ async def lastname(steal):
         await puki.edit("```Please Reply To User Message.```")
         return
     message = await steal.get_reply_message()
-    chat = "SangMata_beta_bot"
+    chat = "@SangMata_beta_bot"
     user_id = message.sender.id
     id = f"{user_id}"
     if message.sender.bot:
