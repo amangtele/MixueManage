@@ -129,7 +129,7 @@ async def hmm(client, message):
         response = response.replace("aco", "Amang")
         response = response.replace("Luna", "Amang")
         response = response.replace("luna", "Amang")
-        response = response.replace("I'm a lord", "My god is @amwang
+        response = response.replace("I'm a lord", "My god is @amwang")
         response = response.replace("9", "21")
         response = response.replace("I'm married to my job.", "I'm married with @amwang")
         response = response.replace("I'm single.", "My husband is @amwang")
